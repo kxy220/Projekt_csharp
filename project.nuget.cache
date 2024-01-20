@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StLhByfvNp47jEMXJgUGAzsb7kCTokoR70r6L31mLL9cCbASy6vn+/ZDRiUwkxAPgkyu17/RwhxNM0DVLVrVlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\flight-system\\FlightSystem\\FlightSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
