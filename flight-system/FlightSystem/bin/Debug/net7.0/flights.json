@@ -1,0 +1,48 @@
+[
+  {
+    "DepartureAirport": {
+      "Name": "John F. Kennedy International Airport",
+      "City": "New York",
+      "Country": "USA",
+      "Id": 1
+    },
+    "ArrivalAirport": {
+      "Name": "Los Angeles International Airport",
+      "City": "Los Angeles",
+      "Country": "USA",
+      "Id": 2
+    },
+    "DepartureTime": "2024-01-20T08:00:00",
+    "ArrivalTime": "2024-01-20T11:30:00",
+    "Aircraft": {
+      "EconomySeats": 280,
+      "BusinessSeats": 70,
+      "FirstClassSeats": 16,
+      "Model": "Boeing 747",
+      "TotalSeats": 366,
+      "Id": 1
+    },
+    "Reservations": [
+      {
+        "Ticket": {
+          "Flight": null,
+          "Passenger": {
+            "FirstName": "John",
+            "LastName": "Doe",
+            "Tickets": null,
+            "Id": 0
+          },
+          "SeatNumber": null,
+          "Price": 140.0,
+          "Class": 1,
+          "Id": 0
+        },
+        "ReservationCode": "76ded559-1d21-4a4b-af13-40b29a30435a",
+        "IsConfirmed": false,
+        "Id": 0
+      }
+    ],
+    "BasePrice": 100,
+    "Id": 1
+  }
+]
